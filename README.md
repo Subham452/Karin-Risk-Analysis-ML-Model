@@ -735,7 +735,6 @@ Project: Karin - Credit Risk Assessment System
 Version: 1.0.0
 Date: 2026-aug
 
-Made with ❤️ and python
 
 Made with ❤️ and Python
 
